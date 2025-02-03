@@ -49,7 +49,7 @@ secure-project-mgmt-rbac/
 └── app.js
 ```
 
-1. [Fork this repository](https://github.com/YOUR_ORG/secure-project-mgmt-rbac)
+1. [Fork this repository](https://github.com/codevergehq/exercise-secure-project-mgmt-rbac/)
 2. Clone the repository to your computer
 3. Navigate to the project directory:
    ```bash
